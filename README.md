@@ -23,10 +23,12 @@ project-folder/
 
 ---
 
-## Contact
+## Author
 
-If you have any questions or suggestions, feel free to reach out:
+**Ravi Kumar**  
+- [GitHub](https://github.com/mr-ravikumar)  
+- [Twitter](https://twitter.com/mrravikumarr)  
+- [LinkedIn](https://linkedin.com/in/mrravikumar)  
+- [Portfolio](https://www.mrravikumar.com)
 
-- **GitHub**: [https://www.github.com/mr-ravikumar](https://www.github.com/mr-ravikumar)
-- **Email**: [ravikumar848700@gmail.com](mailto\:ravikumar848700@gmail.com)
-- Website: [https://www.dsa2web.in](https://www.dsa2web.in)
+  
