@@ -25,10 +25,7 @@ project-folder/
 
 ## Author
 
-**Ravi Kumar**  
-- [GitHub](https://github.com/mr-ravikumar)  
-- [Twitter](https://twitter.com/mrravikumarr)  
+**Ravi Kumar**
+- [GitHub](https://github.com/mr-ravikumar)    
 - [LinkedIn](https://linkedin.com/in/mrravikumar)  
-- [Portfolio](https://www.mrravikumar.com)
-
-  
+- [Portfolio](https://www.mrravikumar.com) 
